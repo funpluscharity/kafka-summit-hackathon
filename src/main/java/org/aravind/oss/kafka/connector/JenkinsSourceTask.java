@@ -1,4 +1,4 @@
-package com.aravind.connector;
+package org.aravind.oss.kafka.connector;
 
 import org.apache.kafka.connect.data.Schema;
 import org.apache.kafka.connect.source.SourceRecord;

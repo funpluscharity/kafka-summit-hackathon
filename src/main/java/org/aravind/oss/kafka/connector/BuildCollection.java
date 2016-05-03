@@ -1,4 +1,4 @@
-package com.aravind.connector;
+package org.aravind.oss.kafka.connector;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
