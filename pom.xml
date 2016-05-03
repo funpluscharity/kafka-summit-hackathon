@@ -78,6 +78,7 @@
     </dependencies>
 
     <repositories>
+        <!-- This is Confluent's release maven repository; need to switch to maven central release repository in the final state -->
         <repository>
             <id>confluent</id>
             <url>http://packages.confluent.io/maven/</url>
